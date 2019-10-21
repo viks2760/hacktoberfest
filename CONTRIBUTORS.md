@@ -2308,6 +2308,11 @@ Noida
 - Bio: Web developer
 - GitHub: [Veronika Tolpeeva](https://github.com/ostyq)
 
+### Name: [Vikram Madhavan](https://github.com/viks2760)
+- Place: Bangalore, India
+- Bio: College Student
+- Github: [Vikram Madhavan](https://github.com/viks2760)
+
 #### Name: [Vishaal Udandarao](https://github.com/vishaal27)
 - Place: New Delhi, India
 - Bio: Professional Geek | Developer
